@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e32f1cee-9760-46e2-8263-51e3964d1625" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1781043885">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="198" />
+          <entry key="scala" value="353" />
+          <entry key="xml" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="198" />
+          <entry key="Scala" value="353" />
+          <entry key="XML" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="class" value="3" />
+          <entry key="java" value="2" />
+          <entry key="properties" value="1" />
+          <entry key="scala" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="2" />
+          <entry key="Properties" value="1" />
+          <entry key="Scala" value="5" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6">
+              <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/bigdata/job/stream/ReadCollection.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+              <folding>
+                <element signature="e#32#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/stream/source/ReadCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/bigdata/job/stream/ReadCollection.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/stream/ReadCollection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stream/source/ReadCollection.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../env/maven/apache-maven-3.5.4-bdp" />
+        <option name="userSettingsFile" value="D:\dev\env\maven\apache-maven-3.5.4-bdp\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my-flink" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my-flink" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="my-flink" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.apache.flink:flink-clients_2.11:1.14.3" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-flink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-flink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1658103220892" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReadCollection (1)">
+    <configuration name="ReadCollection" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.bigdata.job.stream.ReadCollection" />
+      <module name="my-flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigdata.job.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.source.ReadCollection" />
+      <module name="my-flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReadCollection" />
+      <item itemvalue="Application.ReadCollection (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadCollection (1)" />
+        <item itemvalue="Application.ReadCollection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e32f1cee-9760-46e2-8263-51e3964d1625" name="Default Changelist" comment="" />
+      <created>1657962365517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657962365517</updated>
+      <workItem from="1657962367598" duration="8072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8072000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Job Explorer" order="5" show_stripe_button="false" weight="0.32995737" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25" />
+      <window_info id="Structure" order="7" weight="0.25" />
+      <window_info id="Project Explorer" order="8" show_stripe_button="false" weight="0.32995737" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" weight="0.29175946" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41648108" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/bigdata/job/App.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/bigdata/job/AppTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#25#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.14.3/flink-streaming-scala_2.11-1.14.3.jar!/org/apache/flink/streaming/api/scala/StreamExecutionEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.bigdata.job:my-flink:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.bigdata.job:my-flink:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.bigdata.job:my-flink:1.0-SNAPSHOT</node>
+            <node x="" y="">org.scala-lang:scala-library:jar:2.11.12</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.apache.flink:flink-streaming-java_2.11:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.apache.flink:flink-streaming-java_2.11:jar:1.14.3/org.apache.flink:flink-file-sink-common:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.apache.flink:flink-streaming-java_2.11:jar:1.14.3/org.apache.flink:flink-shaded-guava:jar:30.1.1-jre-14.0</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.apache.flink:flink-streaming-java_2.11:jar:1.14.3/org.apache.commons:commons-math3:jar:3.5</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.apache.flink:flink-scala_2.11:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.apache.flink:flink-scala_2.11:jar:1.14.3/org.apache.flink:flink-shaded-asm-7:jar:7.1-14.0</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.apache.flink:flink-scala_2.11:jar:1.14.3/com.twitter:chill_2.11:jar:0.7.6</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.apache.flink:flink-scala_2.11:jar:1.14.3/com.twitter:chill_2.11:jar:0.7.6/com.twitter:chill-java:jar:0.7.6</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.scala-lang:scala-reflect:jar:2.11.12</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.scala-lang:scala-compiler:jar:2.11.12</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.scala-lang:scala-compiler:jar:2.11.12/org.scala-lang.modules:scala-xml_2.11:jar:1.0.5</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.scala-lang:scala-compiler:jar:2.11.12/org.scala-lang.modules:scala-xml_2.11:jar:1.0.5/org.scala-lang:scala-library:jar:2.11.7</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.scala-lang:scala-compiler:jar:2.11.12/org.scala-lang.modules:scala-parser-combinators_2.11:jar:1.0.4</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.scala-lang:scala-compiler:jar:2.11.12/org.scala-lang.modules:scala-parser-combinators_2.11:jar:1.0.4/org.scala-lang:scala-library:jar:2.11.6</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.slf4j:slf4j-api:jar:1.7.15</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/com.google.code.findbugs:jsr305:jar:1.3.9</node>
+            <node x="" y="">org.apache.flink:flink-streaming-scala_2.11:jar:1.14.3/org.apache.flink:flink-shaded-force-shading:jar:14.0</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-core:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-core:jar:1.14.3/org.apache.flink:flink-annotations:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-core:jar:1.14.3/org.apache.flink:flink-metrics-core:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-core:jar:1.14.3/org.apache.commons:commons-lang3:jar:3.3.2</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-core:jar:1.14.3/com.esotericsoftware.kryo:kryo:jar:2.24.0</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-core:jar:1.14.3/com.esotericsoftware.kryo:kryo:jar:2.24.0/com.esotericsoftware.minlog:minlog:jar:1.2</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-core:jar:1.14.3/com.esotericsoftware.kryo:kryo:jar:2.24.0/org.objenesis:objenesis:jar:2.1</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-core:jar:1.14.3/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-core:jar:1.14.3/org.apache.commons:commons-compress:jar:1.21</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/org.apache.flink:flink-rpc-core:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/org.apache.flink:flink-rpc-akka-loader:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/org.apache.flink:flink-queryable-state-client-java:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/org.apache.flink:flink-hadoop-fs:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/commons-io:commons-io:jar:2.8.0</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/org.apache.flink:flink-shaded-netty:jar:4.1.65.Final-14.0</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/org.apache.flink:flink-shaded-jackson:jar:2.12.4-14.0</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/org.apache.flink:flink-shaded-zookeeper-3:jar:3.4.14-14.0</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/org.javassist:javassist:jar:3.24.0-GA</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/org.xerial.snappy:snappy-java:jar:1.1.8.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-runtime:jar:1.14.3/org.lz4:lz4-java:jar:1.8.0</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-optimizer:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/org.apache.flink:flink-java:jar:1.14.3</node>
+            <node x="" y="">org.apache.flink:flink-clients_2.11:jar:1.14.3/commons-cli:commons-cli:jar:1.3.1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.17610264635124348" x="-78.97858383411494" y="1042.112807111463" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-scala_2.11/1.14.3/flink-streaming-scala_2.11-1.14.3-sources.jar!/org/apache/flink/streaming/api/scala/StreamExecutionEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="582" column="6" selection-start-line="582" selection-start-column="6" selection-end-line="582" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/bigdata/job/stream/ReadCollection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+          <folding>
+            <element signature="e#32#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.14.3/flink-core-1.14.3.jar!/org/apache/flink/util/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.14.3/flink-streaming-java_2.11-1.14.3.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="533" column="16" selection-start-line="533" selection-start-column="16" selection-end-line="533" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stream/source/ReadCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
